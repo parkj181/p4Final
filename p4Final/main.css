@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+.body-2{
+    background-color: green;
+  
+  }
+  
+  body{
+      background-color: #83f016;
+  }
+  
+  .header{
+      position: absolute;
+      
+
+    
+      
+      
+  }
+  
+  .header h1{
+      position: relative;
+      font-size: 40px;
+      left: 30px;
+      color:salmon;
+      width: 55vw;
+      font-family: 'Quicksand', sans-serif;
+  
+  }
+  
+  
+  
+  
+  
+    .a:link, a:visited {
+        color: white;
+    
+    
+  
+  
+    }
+  
+    .a:hover, a:active {
+      color: red;
+    }
+   
+  
+    
+  
+    @media only screen and (max-width: 600px) {
+        .header h1{
+            position: relative;
+            font-size: 30px;
+            left: 30px;
+            color:salmon;
+            width: 290px;
+            font-family: 'Quicksand', sans-serif;
+        
+        }
+    }
+        
